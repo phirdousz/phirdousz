@@ -11,6 +11,7 @@ Actuarial Science undergraduate at Universiti Kebangsaan Malaysia with interests
 
 ## Technical Skills
 - Power BI
+- SQL
 - Python
 - R
 - Microsoft Power Automate
