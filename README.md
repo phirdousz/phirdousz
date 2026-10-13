@@ -23,4 +23,3 @@ Actuarial Science undergraduate at Universiti Kebangsaan Malaysia with interests
 
 ## Connect with Me
 LinkedIn: www.linkedin.com/in/aliffirdausazizul03
-``
